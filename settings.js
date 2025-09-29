@@ -1,11 +1,11 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~C5RnibSS#jvXWriwh_LXE62eEuSX_BKI11tAOqDUIi21RWDWNK4s"
+global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~C1BHiSiR#a5QTpAnDlR7hShR-hQsuWbO8dJ72E7GjZ9vmvPyd5oI"
 global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://wanahac344:4H11Ip35dqZCGJg7@cluster0.3blbqc1.mongodb.net/nipuna-0772915479?retryWrites=true&w=majority&appName=Cluster0"
-global.botname = process.env.BOTNAME || "KAVI-X MD"
-global.ownernumber = process.env.OWNERNUMBER || "94766577249"
-global.ownername = process.env.OWNERNAME || "Cyber Kavi"
+global.botname = process.env.BOTNAME || "NIPUNA-MD"
+global.ownernumber = process.env.OWNERNUMBER || "94772915479"
+global.ownername = process.env.OWNERNAME || "NIPUNA"
 global.packname = process.env.PACKNAME || "KAVI-X MD"
 global.author = process.env.AUTHOR || "Cyber Kavi"
 
