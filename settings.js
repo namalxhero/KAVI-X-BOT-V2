@@ -1,8 +1,8 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~C1BHiSiR#a5QTpAnDlR7hShR-hQsuWbO8dJ72E7GjZ9vmvPyd5oI"
-global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://wanahac344:4H11Ip35dqZCGJg7@cluster0.3blbqc1.mongodb.net/nipuna-0772915479?retryWrites=true&w=majority&appName=Cluster0"
+global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~ewA1hYQJ#smsr89O8fz7rZfOLHuVbKcS0kzwWIK4qVx2VkDZj2HQ"
+global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://wanahac344:4H11Ip35dqZCGJg7@cluster0.3blbqc1.mongodb.net/nipuna-0757253212?retryWrites=true&w=majority&appName=Cluster0"
 global.botname = process.env.BOTNAME || "NIPUNA-MD"
 global.ownernumber = process.env.OWNERNUMBER || "94772915479"
 global.ownername = process.env.OWNERNAME || "NIPUNA"
@@ -10,7 +10,7 @@ global.packname = process.env.PACKNAME || "KAVI-X MD"
 global.author = process.env.AUTHOR || "Cyber Kavi"
 
 global.creator = process.env.CREATOR || "94702128378@s.whatsapp.net"
-global.botprefix = process.env.BOTPREFIX || "."
+global.botprefix = process.env.BOTPREFIX || "./"
 global.restart = process.env.RESTART || true
 global.websitex = process.env.WEBSITEX || "https://kavi-x-bot-login.up.railway.app/"
 global.wagc = process.env.WAGC || "https://chat.whatsapp.com/CG9f0paHJzwDImXiydfuht"
