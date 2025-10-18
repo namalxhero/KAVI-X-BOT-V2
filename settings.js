@@ -10,7 +10,7 @@ global.packname = process.env.PACKNAME || "KAVI-X MD"
 global.author = process.env.AUTHOR || "Cyber Kavi"
 
 global.creator = process.env.CREATOR || "94702128378@s.whatsapp.net"
-global.botprefix = process.env.BOTPREFIX || "./"
+global.botprefix = process.env.BOTPREFIX || "."
 global.restart = process.env.RESTART || true
 global.websitex = process.env.WEBSITEX || "https://kavi-x-bot-login.up.railway.app/"
 global.wagc = process.env.WAGC || "https://chat.whatsapp.com/CG9f0paHJzwDImXiydfuht"
